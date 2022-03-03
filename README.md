@@ -81,6 +81,8 @@ Software Engineer at [Improvis](https://improvis.ai/)
   * [some time ago there was a thing called Adobe Flash](https://github.com/GasparVardanyan/a3dutils)
   * ... [and some other projects](https://github.com/GasparVardanyan?tab=repositories)
 
+---
+
 # Social
 
 * [@gaspar@թութ.հայ](https://xn--69aa8bzb.xn--y9a3aq/web/accounts/126075)
