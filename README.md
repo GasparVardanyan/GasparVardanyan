@@ -1,3 +1,10 @@
+      ____
+     / ___| __ _ ___ _ __   __ _ _ __
+    | |  _ / _` / __| '_ \ / _` | '__|
+    | |_| | (_| \__ \ |_) | (_| | |
+     \____|\__,_|___/ .__/ \__,_|_|
+                    |_|
+
 # **Improvis** Team Member
 Software Engineer at [Improvis](https://improvis.ai/)
 
