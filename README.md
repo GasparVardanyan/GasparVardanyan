@@ -88,6 +88,7 @@ Software Engineer at [Improvis](https://improvis.ai/)
 * [@gaspar@թութ.հայ](https://xn--69aa8bzb.xn--y9a3aq/web/accounts/126075)
 * [u/GasparVardanyan](https://www.reddit.com/user/GasparVardanyan/)
 * [@gaspar_m:matrix.org](https://matrix.to/#/@gaspar_m:matrix.org)
+* [gaspar_pm@protonmail.com](mailto:gaspar_pm@protonmail.com)
 
 \
 \
