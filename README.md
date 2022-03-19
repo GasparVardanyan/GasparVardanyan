@@ -1,9 +1,9 @@
-      ____
-     / ___| __ _ ___ _ __   __ _ _ __
-    | |  _ / _` / __| '_ \ / _` | '__|
-    | |_| | (_| \__ \ |_) | (_| | |
-     \____|\__,_|___/ .__/ \__,_|_|
-                    |_|
+      ____                                    github.com/GasparVardanyan
+     / ___| __ _ ___ _ __   __ _ _ __         gitlab.com/GasparVardanyan
+    | |  _ / _` / __| '_ \ / _` | '__|        @gaspar@թութ.հայ
+    | |_| | (_| \__ \ |_) | (_| | |           u/GasparVardanyan
+     \____|\__,_|___/ .__/ \__,_|_|           @gaspar_m:matrix.org
+                    |_|                       gaspar_pm@protonmail.com
 
 # **Improvis** Team Member
 Software Engineer at [Improvis](https://improvis.ai/)
