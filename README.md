@@ -1,7 +1,7 @@
       ____                                    github.com/GasparVardanyan
      / ___| __ _ ___ _ __   __ _ _ __         gitlab.com/GasparVardanyan
     | |  _ / _` / __| '_ \ / _` | '__|        @gaspar@թութ.հայ
-    | |_| | (_| \__ \ |_) | (_| | |           u/GasparVardanyan
+    | |_| | (_| \__ \ |_) | (_| | |           gaspar@jabber.am
      \____|\__,_|___/ .__/ \__,_|_|           @gaspar_m:matrix.org
                     |_|                       gaspar_pm@protonmail.com
 
@@ -86,6 +86,7 @@ Software Engineer at [Improvis](https://improvis.ai/)
 # Social
 
 * [@gaspar@թութ.հայ](https://xn--69aa8bzb.xn--y9a3aq/web/accounts/126075)
+* [gaspar@jabber.am](xmpp:gaspar@jabber.am)
 * [u/GasparVardanyan](https://www.reddit.com/user/GasparVardanyan/)
 * [@gaspar_m:matrix.org](https://matrix.to/#/@gaspar_m:matrix.org)
 * [gaspar_pm@protonmail.com](mailto:gaspar_pm@protonmail.com)
