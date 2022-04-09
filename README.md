@@ -91,14 +91,9 @@ Software Engineer at [Improvis](https://improvis.ai/)
 * [@gaspar_m:matrix.org](https://matrix.to/#/@gaspar_m:matrix.org)
 * [gaspar_pm@protonmail.com](mailto:gaspar_pm@protonmail.com)
 
-# Other
-
-* [avatar](https://github.com/GasparVardanyan/GasparVardanyan/blob/master/gaspar.jpg)
-* [pgp public key](https://github.com/GasparVardanyan/GasparVardanyan/blob/master/gaspar.asc)
-* [ssh public key](https://github.com/GasparVardanyan/GasparVardanyan/blob/master/gaspar.pub)
-* [monero wallet](https://github.com/GasparVardanyan/GasparVardanyan/blob/master/gaspar.monero)
-
-\
-\
-\
-**........... btw I use Arch ... 😄**
+<br/><br/><br/>
+<div align="right">
+      
+[avatar](https://github.com/GasparVardanyan/GasparVardanyan/blob/master/gaspar.jpg) | [pgp public key](https://github.com/GasparVardanyan/GasparVardanyan/blob/master/gaspar.asc) | [ssh public key](https://github.com/GasparVardanyan/GasparVardanyan/blob/master/gaspar.pub) | [monero wallet](https://github.com/GasparVardanyan/GasparVardanyan/blob/master/gaspar.monero)
+      
+</div>
