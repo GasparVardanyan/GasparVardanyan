@@ -91,9 +91,12 @@ Software Engineer at [Improvis](https://improvis.ai/)
 * [@gaspar_m:matrix.org](https://matrix.to/#/@gaspar_m:matrix.org)
 * [gaspar_pm@protonmail.com](mailto:gaspar_pm@protonmail.com)
 
-# Monero
+# Other
 
-4B6owtqadncPoyawpn3ZyqJa5mGy8Q76Mffe6LmZfjaVFGbR316bRdvKBP2UAWtt4jZs5wcv2KZyN2Ftuj7czV3oC6qLggE
+* [avatar](https://github.com/GasparVardanyan/GasparVardanyan/blob/master/gaspar.jpg)
+* [pgp public key](https://github.com/GasparVardanyan/GasparVardanyan/blob/master/gaspar.asc)
+* [ssh public key](https://github.com/GasparVardanyan/GasparVardanyan/blob/master/gaspar.pub)
+* [monero wallet](https://github.com/GasparVardanyan/GasparVardanyan/blob/master/gaspar.monero)
 
 \
 \
