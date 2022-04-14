@@ -89,7 +89,7 @@ Software Engineer at [Improvis](https://improvis.ai/)
 * [gaspar@jabber.am](xmpp:gaspar@jabber.am)
 * [u/GasparVardanyan](https://www.reddit.com/user/GasparVardanyan/)
 * [@gaspar_m:matrix.org](https://matrix.to/#/@gaspar_m:matrix.org)
-* [gaspar_pm@protonmail.com](mailto:gaspar_pm@protonmail.com)
+* [gaspar_pm@proton.me](mailto:gaspar_pm@proton.me)
 
 <br/><br/><br/>
 <div align="right">
