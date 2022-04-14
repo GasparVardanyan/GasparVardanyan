@@ -3,7 +3,7 @@
     | |  _ / _` / __| '_ \ / _` | '__|        @gaspar@թութ.հայ
     | |_| | (_| \__ \ |_) | (_| | |           gaspar@jabber.am
      \____|\__,_|___/ .__/ \__,_|_|           @gaspar_m:matrix.org
-                    |_|                       gaspar_pm@protonmail.com
+                    |_|                       gaspar_pm@proton.me
 
 # **Improvis** Team Member
 Software Engineer at [Improvis](https://improvis.ai/)
