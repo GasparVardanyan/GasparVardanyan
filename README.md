@@ -94,6 +94,6 @@ Software Engineer at [Improvis](https://improvis.ai/)
 <br/><br/><br/>
 <div align="right">
       
-[avatar](https://github.com/GasparVardanyan/GasparVardanyan/blob/master/gaspar.jpg) | [pgp public key](https://github.com/GasparVardanyan/GasparVardanyan/blob/master/gaspar.asc) | [ssh public key](https://github.com/GasparVardanyan/GasparVardanyan/blob/master/gaspar.pub) | [monero wallet](https://github.com/GasparVardanyan/GasparVardanyan/blob/master/gaspar.monero) | [gitlab](https://gitlab.com/GasparVardanyan)
+[avatar](https://raw.githubusercontent.com/GasparVardanyan/GasparVardanyan/master/gaspar.jpg) | [pgp public key](https://raw.githubusercontent.com/GasparVardanyan/GasparVardanyan/master/gaspar.asc) | [ssh public key](https://raw.githubusercontent.com/GasparVardanyan/GasparVardanyan/master/gaspar.pub) | [monero wallet](https://raw.githubusercontent.com/GasparVardanyan/GasparVardanyan/master/gaspar.monero) | [gitlab](https://gitlab.com/GasparVardanyan)
       
 </div>
