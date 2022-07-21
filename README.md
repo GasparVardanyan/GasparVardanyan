@@ -68,9 +68,8 @@ Software Engineer at [Improvis](https://improvis.ai/)
 
 * ## Suckless patches:
   * [dwm's dynamicscratchpads patch](https://dwm.suckless.org/patches/dynamicscratchpads/)
-  * [dwm's xtheme patch](https://dwm.suckless.org/patches/xtheme/)
   * [st's autocomplete patch](https://st.suckless.org/patches/autocomplete/)
-  * [st's xtheme patch](https://st.suckless.org/patches/xtheme/)
+  * xtheme patches for [dwm](https://dwm.suckless.org/patches/xtheme/), [st](https://st.suckless.org/patches/xtheme/), [dmenu](https://tools.suckless.org/dmenu/patches/xtheme/) and [tabbed](https://tools.suckless.org/tabbed/patches/xtheme/)
 
 * ## BlackArch tools:
   * [the gcrypt file encryption tool](https://gitlab.com/GasparVardanyan/gcrypt)
